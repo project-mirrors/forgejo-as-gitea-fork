@@ -79,7 +79,7 @@ require (
 	github.com/meilisearch/meilisearch-go v0.34.0
 	github.com/mholt/archives v0.1.5
 	github.com/microcosm-cc/bluemonday v1.0.27
-	github.com/minio/minio-go/v7 v7.0.95
+	github.com/minio/minio-go/v7 v7.0.97
 	github.com/msteinert/pam/v2 v2.1.0
 	github.com/niklasfasching/go-org v1.9.1
 	github.com/olivere/elastic/v7 v7.0.32
@@ -209,6 +209,7 @@ require (
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
+	github.com/klauspost/crc32 v1.3.0 // indirect
 	github.com/klauspost/pgzip v1.2.6 // indirect
 	github.com/libdns/libdns v1.0.0 // indirect
 	github.com/mailru/easyjson v0.9.0 // indirect
@@ -219,7 +220,7 @@ require (
 	github.com/mholt/acmez/v3 v3.1.2 // indirect
 	github.com/miekg/dns v1.1.63 // indirect
 	github.com/mikelolasagasti/xz v1.0.1 // indirect
-	github.com/minio/crc64nvme v1.0.2 // indirect
+	github.com/minio/crc64nvme v1.1.0 // indirect
 	github.com/minio/md5-simd v1.1.2 // indirect
 	github.com/minio/minlz v1.0.1 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
